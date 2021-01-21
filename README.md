@@ -1,1 +1,1 @@
-# ArtCollector
+# ArtsyCollector
